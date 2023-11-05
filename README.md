@@ -3,12 +3,12 @@ Hello, I am Wei. 🎬
 
 ### Project Name: Appointment-System
 
-### Date:  Nov 4, 2023
+### Date:  Apr 4, 2022
 
 ### Description:
 
 ### Technologies Used:
-- **Javascript**: Javascript programming language.  
+- **C**: C programming language.  
 
 ### Project Structure:：
 - `D.js`：
@@ -20,7 +20,9 @@ Hello, I am Wei. 🎬
 
 
 ### Update Log:
-- Version 1.0.0 (Nov 4, 2023)
+- Version 1.0.0 (Mar 25, 2022)
+- Version 1.2.0 (Mar 27, 2022)
+- Version 1.3.0 (Apr 4, 2022)
 
 
 ***
