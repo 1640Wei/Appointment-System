@@ -11,7 +11,10 @@ Hello, I am Wei. 🔔
 - **C**: C programming language.  
 
 ### Project Structure:：
-- `D.js`：
+- `clinic.c`:
+- `clinic.h`:
+- `core.c`:
+- `core.h`:
 
 ### Example:
 
